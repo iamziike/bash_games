@@ -1,0 +1,6 @@
+.git
+
+# others
+hide
+*.todo
+*copy.sh
